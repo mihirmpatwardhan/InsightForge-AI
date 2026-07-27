@@ -1,0 +1,14 @@
+streamlit
+pandas
+numpy
+plotly
+matplotlib
+seaborn
+python-dotenv
+google-generativeai
+python-docx
+reportlab
+openpyxl
+kaleido
+setuptools
+requests
